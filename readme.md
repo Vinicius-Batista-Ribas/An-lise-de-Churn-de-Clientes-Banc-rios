@@ -21,6 +21,8 @@ A partir dos dados, foram identificados padrões comportamentais e perfis de cli
 - Matplotlib  
 - Jupyter Notebook  
 
+Link do notebook: *https://github.com/Vinicius-Batista-Ribas/An-lise-de-Churn-de-Clientes-Banc-rios/blob/main/NOTEBOOK/BANK_CUSTUMER_CHURN.ipynb*
+
 ---
 
 ## 📂 Base de Dados
